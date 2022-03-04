@@ -1,8 +1,8 @@
 {
   "name": "reacttest",
   "version": "0.1.0",
-  "homepage": "https://RNtaate.github.io",
   "private": true,
+  "homepage": "https://RNtaate.github.io/reacttest",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.3",
